@@ -1,0 +1,19 @@
+{
+  "name": "atif3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.8.0",
+    "nodemailer-express-handlebars": "^5.0.0",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "transporter": "^0.0.1"
+  }
+}
