@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.email {
+  background-color: yellow;
+  text-align: center;
+  padding: 60px;
+}
+.email-1 {
+  text-align: center;
+  padding: 5%;
+  font-family: sans-serif;
+  letter-spacing: 5%;
+}
+.email-3 {
+  text-align: center;
+  margin: 20px 20px;
+}
+button {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  background-color: orange;
+  cursor: pointer;
+}
+
+.email-4 {
+  text-align: center;
+  background-color: black;
+  color: beige;
+  padding: 3%;
+}
+.email-5 {
+  text-align: center;
+  background-color: yellow;
+}
