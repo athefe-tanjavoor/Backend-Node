@@ -1,9 +1,9 @@
 const path = require("path");
 var nodemailer = require("nodemailer");
 var hbs = require("nodemailer-express-handlebars");
-const morgan = require("morgan");
+
 const { appendFile } = require("fs");
-app.use("morgan()");
+
 var transporter = nodemailer.createTransport({
   service: "gmail",
   host: "smtp.gmail.com",
